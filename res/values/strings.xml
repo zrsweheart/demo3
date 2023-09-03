@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">我の记账本</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">AddActivity</string>
+
+    <string name="title_activity_show_acticity">ShowActicity</string>
+    <string name="title_activity_serch">SerchActivity</string>
+        <string-array name="region">
+        <item>服饰</item>
+<item>买菜</item>
+<item>吃饭</item>
+<item>零食</item>
+<item>收入</item>
+<item>孩子</item>
+<item>其他</item>
+    </string-array>
+     <color name="gray">#999999</color>
+    <color name="blue">#0000ff</color>
+    <color name="yellow">#f7e9d3</color>
+</resources>
